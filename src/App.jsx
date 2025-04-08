@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1>What's Your Weather?</h1>
+      <h1>What is Your Weather?</h1>
 
       
       <input
